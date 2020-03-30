@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 大众微课学习平台
 
 You can use the [editor on GitHub](https://github.com/lanmx/lanmx.guihub.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
